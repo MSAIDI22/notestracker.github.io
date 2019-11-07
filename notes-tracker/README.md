@@ -6,10 +6,10 @@ npm install
 ```
 ### Cd src
 
-npm install
 ```
+npm install
 or
-vue ui
+vue ui and click 'serve'
 ```
 
 ### Compiles and minifies for production
