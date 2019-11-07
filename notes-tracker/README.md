@@ -1,13 +1,15 @@
-# notes-tracker
+# notes-tracker 
 
 ## Project setup
 ```
 npm install
 ```
+### Cd src
 
-### Compiles and hot-reloads for development
+npm install
 ```
-npm run serve
+or
+vue ui
 ```
 
 ### Compiles and minifies for production
